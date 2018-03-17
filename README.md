@@ -1,2 +1,4 @@
 # kickstarter_success_classifier
-Classifies the status of a kickstarter project
+
+Classifier whether a kickstarter project will be a success or a failure
+
